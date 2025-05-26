@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a dev from kolkata<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I chill and build repos</p>
+<p align="left">I'm a dev from Kolkata<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I chill and build repos</p>
 
 ###
 
