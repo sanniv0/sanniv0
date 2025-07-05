@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Aspiring developer | UI/UX Designer | Content Writing | Java Developer | Participant of SIH |</h2>
+<h2 align="center">Aspiring developer | UI/UX Designer | Content Writer | Java Developer | Participant of SIH |</h2>
 
 ###
 
