@@ -72,12 +72,9 @@ Here are some of my notable projects:
 
 --- 
 
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanniv0/sanniv0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanniv0/sanniv0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sanniv0/sanniv0/output/pacman-contribution-graph.svg">
-</picture>
+## 📈 ### GitHub Contributions Graph
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangsonww&theme=radical" alt="Sanniv0's GitHub Achievements" />
+</div>
 
 ---
