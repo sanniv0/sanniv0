@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! My name is Sanniv and I'm a Developer, from Kolkata</h2>
+<img width="921" height="300" alt="github-header-image" src="https://github.com/user-attachments/assets/a6b2e0ac-4438-4449-b70a-037b7179bcb7" />
+
 <h1 align="center">👋 Hi, I'm Sanniv!</h1>
 
 <p align="center">Aspiring developer | UI/UX Designer | Content Writer | Java Developer | Participant of SIH</p>
