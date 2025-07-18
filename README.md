@@ -72,9 +72,9 @@ Here are some of my notable projects:
 
 --- 
 
-## 📈 ### GitHub Contributions Graph
+## 📈 Repositories Contribution Graph
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangsonww&theme=radical" alt="Sanniv0's GitHub Achievements" />
+    <img src="https://ghchart.rshah.org/sanniv0" alt="Sanniv0's Repos Contributions" />
 </div>
 
 ---
