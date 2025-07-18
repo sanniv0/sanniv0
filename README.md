@@ -58,7 +58,7 @@ Here are some of my notable projects:
 - **ResumeAce**: [Link](https://github.com/sanniv0/ResumeAce)
   - A modern, intuitive, and open-source resume builder built with Next.js, TypeScript, and Tailwind CSS. It empowers users to create professional and visually appealing     resumes with ease.
 - **FinMitra**: [Link](https://github.com/sanniv0/FinMitra)
-  -This application provides personalized investment guidance, sample investment plans, and a dictionary of financial terms, all powered by generative AI..
+  - This application provides personalized investment guidance, sample investment plans, and a dictionary of financial terms, all powered by generative AI..
 
 --- 
 
