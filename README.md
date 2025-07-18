@@ -73,5 +73,5 @@ Here are some of my notable projects:
 --- 
 
 ## 📈 Repositories Contribution Graph
- [![sanniv0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanniv0&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/sanniv0/github-readme-activity-graph)
+ [![sanniv0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanniv0&custom_title=My%20%20%20Contribution&hide_border=true)](https://github.com/sanniv0/github-readme-activity-graph)
       ---
