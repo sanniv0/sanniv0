@@ -74,7 +74,6 @@ Here are some of my notable projects:
 
 ## 📈 Repositories Contribution Graph
 <div align="center">
-    <img src="https://ghchart.rshah.org/sanniv0" alt="Sanniv0's Repos Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/user-statistic?username=sanniv0&show_icons=true&theme=dark" alt="My GitHub Stats" />
 </div>
-
 ---
