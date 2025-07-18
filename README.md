@@ -55,10 +55,10 @@ I'm a passionate and driven individual with a keen interest in software developm
 
 Here are some of my notable projects:
 
-- **Project 1**: [Link to Project 1](https://github.com/sanniv0/)
-  - A brief description of Project 1.
-- **Project 2**: [Link to Project 2](https://github.com/sanniv0/)
-  - A brief description of Project 2.
+- **ResumeAce**: [Link](https://github.com/sanniv0/ResumeAce)
+  - A modern, intuitive, and open-source resume builder built with Next.js, TypeScript, and Tailwind CSS. It empowers users to create professional and visually appealing     resumes with ease.
+- **FinMitra**: [Link](https://github.com/sanniv0/FinMitra)
+  -This application provides personalized investment guidance, sample investment plans, and a dictionary of financial terms, all powered by generative AI..
 
 --- 
 
