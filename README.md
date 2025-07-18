@@ -1,4 +1,6 @@
-<img width="921" height="300" alt="github-header-image" src="https://github.com/user-attachments/assets/a6b2e0ac-4438-4449-b70a-037b7179bcb7" align="center"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6b2e0ac-4438-4449-b70a-037b7179bcb7" alt="github-header-image" width="921" height="300">
+</p>
 
 <h1 align="center">👋 Hi, I'm Sanniv!</h1>
 
