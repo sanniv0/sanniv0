@@ -73,7 +73,7 @@ Here are some of my notable projects:
 --- 
 
 ## 📈 Repositories Contribution Graph
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/user-statistic?username=sanniv0&show_icons=true&theme=dark" alt="My GitHub Stats" />
+ <div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=sanniv0&theme=dark" alt="sanniv0's GitHub Streak Stats" />
 </div>
----
+      ---
