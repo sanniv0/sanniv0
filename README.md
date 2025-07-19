@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a6b2e0ac-4438-4449-b70a-037b7179bcb7" alt="github-header-image" width="921" height="300">
-</p>
-
 <h1 align="center">👋 Hi, I'm Sanniv!</h1>
 
 <p align="center">Aspiring developer | UI/UX Designer | Content Writer | Java Developer | Participant of SIH</p>
@@ -73,6 +69,6 @@ Here are some of my notable projects:
 --- 
 
 ## 📈 Repositories Contribution Graph
-[![sanniv0's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanniv0&bg_color=1a1a1a&color=00ffff&line=ff00aa&point=ffeb3b&area=true&hide_border=true&custom_title=sanniv0's%20Repo%20Matrix)](https://github.com/sanniv0/github-readme-activity-graph)
+[![sanniv0's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanniv0&bg_color=1a1a1a&color=00ffff&line=00ff00&point=ffeb3b&area=true&hide_border=true&custom_title=sanniv0's%20Cyberpunk%20Matrix)](https://github.com/sanniv0/github-readme-activity-graph)
 
 ---
