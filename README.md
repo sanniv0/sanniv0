@@ -69,8 +69,6 @@ Here are some of my notable projects:
 --- 
 
 ## 📈 Repositories Contribution Graph
-<div align="center">
-  <img src= https://github-readme-activity-graph.vercel.app/graph?username=sanniv0&theme=cyberpunk&bg_color=00ff00a&hide_border=true" width="100%"/>
-</div>
+[![sanniv0's Cyberpunk Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanniv0&bg_color=1a1a1a&color=00ffff&line=00ff00&point=ffeb3b&area=true&hide_border=true&custom_title=sanniv0's%20Cyberpunk%20Matrix)](https://github.com/sanniv0/github-readme-activity-graph)
 
 ---
