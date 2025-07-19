@@ -70,7 +70,7 @@ Here are some of my notable projects:
 
 ## 📈 Repositories Contribution Graph
 <div align="center">
-  <img src= https://github-readme-activity-graph.vercel.app/graph?username=sanniv0&theme=cyberpunk&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src= https://github-readme-activity-graph.vercel.app/graph?username=sanniv0&theme=cyberpunk&bg_color=00ff00a&hide_border=true" width="100%"/>
 </div>
 
 ---
