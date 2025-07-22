@@ -96,10 +96,10 @@ I'm Sanniv, a digital architect from Kolkata who transforms complex problems int
 
 <div align="center">
   <a href="https://github.com/sanniv0/GenBuzz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanniv0&repo=project-1&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=E0E0E0&bg_color=0A0A0A" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanniv0&repo=GenBuzz&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=E0E0E0&bg_color=0A0A0A" />
   </a>
   <a href="https://github.com/sanniv0/FinMitra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanniv0&repo=project-1&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=E0E0E0&bg_color=0A0A0A" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanniv0&repo=FinMitra&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=E0E0E0&bg_color=0A0A0A" />
   </a>
 </div>
 
