@@ -106,7 +106,7 @@ I'm Sanniv, a digital architect from Kolkata who transforms complex problems int
 <details>
   <summary><b>🔍 Behind the Projects</b></summary>
   <div>
-    <h3>Project 1: Reimagining User Experiences</h3>
+    <h3> Reimagining User Experiences</h3>
     <p>
       <b>The Challenge:</b> Creating a responsive, high-performance web application that breaks conventional patterns<br>
       <b>The Approach:</b> Implemented a custom React architecture with state management optimized for performance and developer experience<br>
@@ -119,7 +119,7 @@ I'm Sanniv, a digital architect from Kolkata who transforms complex problems int
     </p>
     </div>
     <div>
-    <h3>Project 2: Engineering for Scale</h3>
+    <h3> Engineering for Scale</h3>
     <p>
       <b>The Challenge:</b> Building a system that could grow from hundreds to millions of users without redesign<br>
       <b>The Approach:</b> Designed a microservices architecture with event-driven communication and intelligent caching<br>
