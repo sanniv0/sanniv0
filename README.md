@@ -155,7 +155,8 @@ I'm Sanniv, a digital architect from Kolkata who transforms complex problems int
     <img src="https://img.shields.io/badge/Innovative_Collaboration-6366F1?style=for-the-badge&labelColor=0D1117" alt="Innovative Collaboration"/>
   </p>
 </div>
-## 🤝 Connect With Me
+
+## 🤝 Let's Connect
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
