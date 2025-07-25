@@ -138,6 +138,7 @@ I'm Sanniv, a digital architect from Kolkata who transforms complex problems int
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanniv0&show_icons=true&count_private=true&hide=contribs&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanniv0&theme=transparent&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=6366F1&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanniv0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ## 🔭 Current Explorations
