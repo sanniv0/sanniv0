@@ -30,24 +30,24 @@ Resilience over Redundancy - I architect systems that are self-healing and fault
 <tr>
 <td align="center" width="50%">
 <h3>☁️ Cloud Artistry</h3>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgcp,kubernetes,docker,terraform" height="40" />
+<img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,terraform" height="40" />
 <p>Designing and deploying scalable, secure, and cost-effective solutions on Google Cloud Platform (GCP).</p>
 </td>
 <td align="center" width="50%">
 <h3>🤖 Data & Intelligence</h3>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dai,ml,jupyter,python" height="40" />
+<img src="https://skillicons.dev/icons?i=ai,ml,jupyter,python" height="40" />
 <p>Building intelligent applications that leverage data science and machine learning to find patterns and drive innovation.</p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <h3>🏗️ Backend Architecture</h3>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,java,mongodb,firebase" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,mongodb,firebase" height="40" />
 <p>Building robust foundations that support scalable, efficient, and maintainable systems.</p>
 </td>
 <td align="center" width="50%">
 <h3>🔧 Craftsman's Tools</h3>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,figma,vscode,jira" height="40" />
+<img src="https://skillicons.dev/icons?i=git,docker,figma,vscode" height="40" />
 <p>Wielding the right tools with precision to bring visions to life with efficiency and quality.</p>
 </td>
 </tr>
