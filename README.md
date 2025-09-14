@@ -28,6 +28,9 @@ Resilience over Redundancy - I architect systems that are self-healing and fault
 <div align="center">
 <table border="0">
 <tr>
+<div align="center">
+<table border="0">
+<tr>
 <td align="center" width="50%">
 <h3>☁️ Cloud Artistry</h3>
 <img src="https://skillicons.dev/icons?i=gcp,docker,terraform" height="40" />
@@ -38,6 +41,8 @@ Resilience over Redundancy - I architect systems that are self-healing and fault
 <img src="https://skillicons.dev/icons?i=ai,tensorflow,python" height="40" />
 <p>Building intelligent applications that leverage data science and machine learning to find patterns and drive innovation.</p>
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 <h3>🏗️ Backend Architecture</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,java,mongodb" height="40" />
