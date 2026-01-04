@@ -1,40 +1,8 @@
 <h1 align="center">👋 Hi, I'm Sanniv!</h1>
 
 <p align="center">
-  <b>Cloud Practitioner | AI/ML Practitioner | Software Developer</b>
+  <b>Cloud Practitioner | AI/ML Enthusiastic | Software Developer</b>
 </p>
-
----
-
-### 💎 Signature Creations
-
-<div align="center">
-<a href="https://github.com/sanniv0/GenBuzz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanniv0&repo=GenBuzz&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=E0E0E0&bg_color=0A0A0A" />
-</a>
-<a href="https://github.com/sanniv0/FinMitra">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanniv0&repo=FinMitra&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=E0E0E0&bg_color=0A0A0A" />
-</a>
-</div>
-
----
-
-### 📊 The Metrics of Craft
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanniv0&show_icons=true&count_private=true&hide=contribs&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanniv0&theme=transparent&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=6366F1&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
-</div>
-
----
-
-### 🔭 Current Explorations
-* 🧪 **Researching**: Automated CI/CD pipelines with **Cloud Build** and **Cloud Deploy**.
-* 📚 **Learning**: Advanced resilience patterns using **GCP Cloud Run** and **GKE**.
-* 🔧 **Building**: A personal knowledge management system to connect non-linear ideas.
-* 🌱 **Growing**: Mentoring new developers entering the cloud ecosystem.
-
----
 
 ### 🤝 Let's Connect
 <div align="center">
